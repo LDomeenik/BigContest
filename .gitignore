@@ -19,6 +19,7 @@ Thumbs.db
 00_data/
 *.csv
 *.parquet
+01_processed/README.md
 
 # 대회 제공 TXT
 \[별첨1\] 테이블 정의서_\(데이터셋 1\) 이동전화 가입자·이동 정보.xlsx
